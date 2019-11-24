@@ -375,4 +375,48 @@ Wire Wire Line
 	9200 3700 9150 3700
 NoConn ~ 9150 3500
 NoConn ~ 9150 3600
+$Comp
+L Mechanical:MountingHole H1
+U 1 1 5DE0908C
+P 6500 1600
+F 0 "H1" H 6600 1646 50  0000 L CNN
+F 1 "MountingHole" H 6600 1555 50  0000 L CNN
+F 2 "Mousebite:Mousebite_0.3mm" H 6500 1600 50  0001 C CNN
+F 3 "~" H 6500 1600 50  0001 C CNN
+	1    6500 1600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H2
+U 1 1 5DE09669
+P 6500 1800
+F 0 "H2" H 6600 1846 50  0000 L CNN
+F 1 "MountingHole" H 6600 1755 50  0000 L CNN
+F 2 "Mousebite:Mousebite_0.3mm" H 6500 1800 50  0001 C CNN
+F 3 "~" H 6500 1800 50  0001 C CNN
+	1    6500 1800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H3
+U 1 1 5DE0A1FC
+P 6500 2000
+F 0 "H3" H 6600 2046 50  0000 L CNN
+F 1 "MountingHole" H 6600 1955 50  0000 L CNN
+F 2 "Mousebite:Mousebite_0.3mm" H 6500 2000 50  0001 C CNN
+F 3 "~" H 6500 2000 50  0001 C CNN
+	1    6500 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H4
+U 1 1 5DE0AE24
+P 6500 2200
+F 0 "H4" H 6600 2246 50  0000 L CNN
+F 1 "MountingHole" H 6600 2155 50  0000 L CNN
+F 2 "Mousebite:Mousebite_0.3mm" H 6500 2200 50  0001 C CNN
+F 3 "~" H 6500 2200 50  0001 C CNN
+	1    6500 2200
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
