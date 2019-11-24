@@ -16,15 +16,15 @@ The PCB consists of two parts:
 1. The adapter board
 2. The regulator board
 
-Both boards are conncted via mousebites for cheap manufacturing. The
-adapter board is supposed to be snaped off the regulator board.
+Both boards are connected via mousebites for cheap manufacturing. The
+adapter board is supposed to be snapped off the regulator board.
 Then it needs to be prepared for usage:
 
 1. Score the surface of the adapter board along the green lines ![PCB RevA top](resources/adapter_cutting.png)
 2. Repeat from the backside
-3. Break off the outher parts of the board (Yes, I'm too cheap for castelations :P)
+3. Break off the outer parts of the board (Yes, I'm too cheap for castellations :P)
 
-Next the main board should be pupulated and soldered.
+Next the main board should be populated and soldered.
 After that the adapter board can be soldered onto the main board.
 Do not try soldering to the two vias in the upper right corner of the
 regulator board. Do only solder the left column of throughholes and
@@ -39,7 +39,7 @@ Next you will need to desolder U3 from the mainboard. (Remember to disconnect th
 Once that is done you should be able to solder the adapter board with the attached regulator
 board in its place. It needs to be oriented such that the regulator board rests on the two speaker
 amplifiers. I'd recommend using some thin double-sided sticky tape to attach the board to the
-aplifier chips. Optionally you can add some non-conductive foam on top of the regulator board so
+amplifier chips. Optionally you can add some non-conductive foam on top of the regulator board so
 it is held down by the bottom case, too.
 
 All of the above SHOULD work. I've just though that up though and did not have a chance to actually test it yet.
