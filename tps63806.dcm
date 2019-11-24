@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPS63606
+F http://www.ti.com/lit/ds/symlink/tps63806.pdf
+$ENDCMP
+#
+$CMP TPS63806
+F http://www.ti.com/lit/ds/symlink/tps63806.pdf
+$ENDCMP
+#
+#End Doc Library

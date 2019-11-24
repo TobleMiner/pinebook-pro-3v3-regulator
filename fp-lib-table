@@ -1,0 +1,8 @@
+(fp_lib_table
+  (lib (name Package_DSBGA)(type KiCad)(uri ${KIPRJMOD}/Package_DSBGA.pretty)(options "")(descr ""))
+  (lib (name Inductor_Coilcraft)(type KiCad)(uri ${KIPRJMOD}/Inductor_Coilcraft.pretty)(options "")(descr ""))
+  (lib (name Jumper_tiny)(type KiCad)(uri ${KIPRJMOD}/Jumper_tiny.pretty)(options "")(descr ""))
+  (lib (name Castellations)(type KiCad)(uri ${KIPRJMOD}/Castellations.pretty)(options "")(descr ""))
+  (lib (name Connector_PinHeader_0.6mm)(type KiCad)(uri ${KIPRJMOD}/Connector_PinHeader_0.6mm.pretty)(options "")(descr ""))
+  (lib (name Mousebite)(type KiCad)(uri ${KIPRJMOD}/Mousebite.pretty)(options "")(descr ""))
+)
