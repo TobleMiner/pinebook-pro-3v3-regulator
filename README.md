@@ -31,7 +31,7 @@ regulator board. Do only solder the left column of throughholes and
 the one in the lower right corner of the adapter board.
 Next you should test if the board is functional. Connect ground one of the
 two pads labeled with "G". Apply 2.5 to 5.5 V to the testpoint labeled with
-"IN". You should see a voltage of 3.3 V at the pad labeled "OUT" once you
+"IN". You should see a voltage of 3.3 V at the testpoint labeled "O" once you
 connect the testpoint labeled "EN" to "IN". The voltage should slowly vanish
 when you connect "EN" to "G".
 
